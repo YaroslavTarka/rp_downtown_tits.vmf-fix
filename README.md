@@ -72,7 +72,7 @@ The project is developed by Garry’s Mod community enthusiasts:
 ### 👋 Добро пожаловать!
 
 Репозиторий содержит исправления и улучшения карты [**rp_downtown_tits**][workshop_downtown_tits_base] для Garry's Mod  
-Включает редактируемые версии **.VMF** для **Hammer** и **Hammer++**
+Включает редактируемые версии **.VMF** для **Hammer** и **Hammer++**  
 А также контент для исправления визуальных багов и других проблем карты
 
 ### 📦 VMF Файлы
